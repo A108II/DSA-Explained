@@ -73,4 +73,4 @@
 - **Description**: Reverses the linked list by reassigning pointers.
 - **Big O**: `O(n)`.
 
-This explanation covers the basics of linked lists, their structure, common operations, and their time complexities.
+- Check out the `Linked_List.md` file.
